@@ -1,0 +1,5 @@
+Federico Astol Simonetta
+4.952.583-1
+Primero es necesario realizar un commit a los cambios realizados sobre la rama de desarrollo, en caso de que se trabaje
+sobre una rama de funcionalidad realizamos commit sobre la misma y merge sobre desarrollo.
+Luego desde desarrollo realizar un merge hacia main y despliegue.
