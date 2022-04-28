@@ -1,0 +1,4 @@
+Federico Astol Simonetta
+4.952.583-1
+
+En el proyecto utilizaria una rama de desarrollo, una rama de produccion, una rama de despliegue y una rama de testing.
